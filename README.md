@@ -10,6 +10,7 @@ Everybody's building AI that does the work for you. These do the opposite. They 
 
 ## What's inside
 
+- `unicornkick-dreamer/` — the soul document. Helps you find the dream you can't name yet, shrinks the first step until it's trivial, holds the line at the wall. Never picks your dream for you.
 - `unicornkick-writer/` — coaches any long writing project (book, dissertation, article) on the UnicornKick method: real baseline, gradual build, recovery weeks, the Glittery Handcuffs early-stop rule. Never ghostwrites.
 - `unicornkick-ultra/` — coaches a runner from their real starting point to a trail or ultra finish: true baseline, 10% builds, recovery weeks, easy miles, the "woah, cowgirl" restraint. Never fakes a mile.
 
